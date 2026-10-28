@@ -1,3 +1,7 @@
+<img width="1200" height="423" src="https://github.com/user-attachments/assets/2bd16d11-1851-44c9-afe8-6ab4122bd4f4" />
+
+<hr />
+
 <a href="#"><img src="https://paige.fyi/badges/everywhxn.svg" width="176" height="62" alt="everywhxn"></a>
 <a href="#"><img src="https://paige.fyi/badges/music.svg" width="176" height="62" alt="everywhxn: certified music fan"></a>
 <a href="#"><img src="https://paige.fyi/badges/spider.svg" width="176" height="62" alt="everywhxn: spider friend"></a>
